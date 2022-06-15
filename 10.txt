@@ -21,7 +21,7 @@
 {"key":"csp_biubiu_黑狐影视ns","name":"黑狐影视(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},  
 {"key":"csp_biubiu_GAOAA","name":"GAOAA（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
 {"key":"csp_biubiu_GAOAA2","name":"GAOAA2（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA2.json"},
-    //
+   
 {"key":"*523资源","name":"*🈲523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*🈳丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*芒果资源","name":"*🈴芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -111,7 +111,7 @@
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-    //
+    
 {"key": "环亚(限)","name": "环亚(限)","type": 0,"api": "http://wmcj8.com/inc/sapi.php","playUrl": "","searchable":0,"quickSearch":0},
 {"key":"狼少年(限)","name":"*狼少年(限)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","playUrl": "","searchable":0,"quickSearch":0},
 {"key":"富二代(限)","name":"*富二代(限)","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","playUrl": "","searchable":0,"quickSearch":0},
@@ -124,7 +124,7 @@
 {"key": "大地(限)","name": "大地(限)","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "花椒(限)","name": "花椒(限)","type": 0,"api": "https://apihjzy.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "乐吧(限)","name": "乐吧(限)","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
-    //
+    
 {"key": "A888(限)","name": "A888(限)","type": 0,"api": "http://m.7777688.com/inc/api.php","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "番号(限)","name": "番号(限)","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "鲨鱼(限)","name": "鲨鱼(限)","type": 0,"api": "https://shayuapi.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":0,"quickSearch":0},
@@ -137,7 +137,7 @@
 {"key": "1024资源(限)","name": "1024资源(限)","type": 0,"api": "https://www.1024nf.com/api.php/provide/vod/at/xml","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "4000资源(限)","name": "4000资源(限)","type": 0,"api": "https://www.4000zy.com/inc/api.php","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "小姐姐(限)","name": "小姐姐(限)","type": 0,"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml","playUrl": "","searchable":0,"quickSearch":0},
-    //
+    
 {"key": "caiji01(限)","name": "caiji01(限)","type": 0,"api": "http://caiji01.com/home/cjapi/cfd2/mc/vod/xml","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "caiji02(限)","name": "caiji02(限)","type": 0,"api": "http://caiji02.com/home/cjapi/cfas/mc/vod/xml","playUrl": "","searchable":0,"quickSearch":0},
 {"key": "caiji03(限)","name": "caiji03(限)","type": 0,"api": "http://caiji03.com/home/cjapi/cfg8/mc/vod/xml","playUrl": "","searchable":0,"quickSearch":0},

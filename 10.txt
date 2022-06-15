@@ -1,6 +1,6 @@
 {
 "wallpaper":"",
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
+"spider": "https://github.com/q7954/xixiys/raw/main/sprider0601.txt?raw=true",
 "sites" : [
     {"name":"爬虫"},
 {"key": "csp_LiteApple"  ,"name":"苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},

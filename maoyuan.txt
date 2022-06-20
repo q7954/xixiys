@@ -1,6 +1,15 @@
 {
     "spider": "img+https://gitea.com/wokaotianshi123/tvmovie/raw/branch/master/maotc/0.jpg",
     "sites": [
+     {
+      "key": "腾讯官网",
+      "name": "腾讯官网",
+      "type": 1,
+      "api": "https://wabc.ml/mao/1.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
             "api": "csp_Kmys",
             "key": "csp_Kmys",
